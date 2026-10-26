@@ -51,8 +51,6 @@ window.WORKS = [
 
 // Clientes actuales (cuenta de Instagram)
 window.CLIENTS = [
-  { name: "Smith Digital", handle: "smithdigitalmayorista" },
-  { name: "Valinta Mercado Natural", handle: "valinta.mercadonatural" },
   { name: "Siciliano Cueros", handle: "sicilianocueros" },
   { name: "Don Carlos Pastas", handle: "doncarlospastas" },
   { name: "Sanno", handle: "sanno._" },
